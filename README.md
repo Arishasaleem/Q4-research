@@ -3,6 +3,8 @@
 Name:Arisha saleem(486162)
  Date: 7-5-2025
  Slot:7-10 Tuesday
+
+ 
  Generative AI-AN Assignment
  What is Generative AI?
  Generative AI is a branch of Artificial Intelligence that can create new content like:
