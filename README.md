@@ -42,11 +42,17 @@ Copy
 Edit
 fastdca-p1/
 ├── main.py              # FastAPI app with routes
+
 ├── .venv/               # Virtual environment (optional)
+
 ├── pyproject.toml       # Project dependencies and settings
+
 ├── uv.lock              # Lock file for reproducibility
+
 └── README.md            # Project documentation
+
 🛠 Technologies Used
+
 Python 3.10+
 
 FastAPI
