@@ -3,10 +3,7 @@
 **Name:** Arisha Saleem (486162)  
 **Date:** 7-5-2025  
 **Slot:** 7-10 Tuesday  
-Name : Ayesha Waseem
-Roll num : 00477764
-Date : 7-05-2025
-Slot: 9-12 Friday
+
 
 Project Overview – fastdca_p1
 The fastdca_p1 project is a hands-on implementation of RESTful APIs using FastAPI and Pydantic. The goal was to understand backend development fundamentals including API creation, data validation, and routing in Python.
